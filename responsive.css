@@ -2,6 +2,9 @@
   .links>ul {
     display: none;
   }
+  .reverse {
+    flex-direction: row-reverse;
+  }
 }
 
 @media (min-width:768px) {

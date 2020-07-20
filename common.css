@@ -9,37 +9,10 @@
   width: -webkit-fill-available;
 }
 
-
-/* banner background image */
-
 .banner {
   margin-top: 56px;
 }
 
-.banner-info {
-  position: absolute;
-  width: 0;
-  height: 0;
-  border-left: 500px solid #ccc;
-  border-right: 435px solid transparent;
-  border-bottom: 450px solid #ccc;
-}
-
-.banner-img {
-  position: absolute;
-  left: 600px;
-  width: 0;
-  height: 0;
-  border-left: 435px solid transparent;
-  border-right: 500px solid #aaa;
-  border-top: 450px solid #aaa;
-}
-
-.rectangle {
-  position: absolute;
-  left: 717px;
-  width: 101px;
-  height: 450px;
-  background-color: tomato;
-  transform: skewX(44deg);
+.project-image {
+  width: 50%;
 }
